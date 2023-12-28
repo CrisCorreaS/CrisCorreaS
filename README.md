@@ -87,7 +87,7 @@
     <a href="https://github.com/CrisCorreaS/login-page">
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=criscorreas&repo=login-page"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=criscorreas&repo=login-page&theme=shadow-red"
         alt="Readme Card Login Page"
       />
     </a>
