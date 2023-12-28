@@ -3,7 +3,7 @@
 
 <br />
 
-- ☕ I specialize in <strong>Java, JavaScript,</strong> and <strong>Spring</strong> development 
+- ⭐ I specialize in <strong>Java, JavaScript,</strong> and <strong>Spring</strong> development 
 - 🚀 Currently immersed in small-scale JavaScript projects 
 - 🤖 Passionate about Arduino, experimenting with small hobby projects in my free time 
 - 🌱 Soon diving into React and Next.js to expand my frontend skills 
