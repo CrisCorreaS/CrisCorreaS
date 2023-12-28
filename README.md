@@ -73,7 +73,7 @@
 </div>
 </details>
 <details>
-<summary><strong>Some JavaScript Projects</strong></summary>
+<summary><strong>A Few JavaScript Projects</strong></summary>
 <div align="center">
   <br />
   <p align="center">
