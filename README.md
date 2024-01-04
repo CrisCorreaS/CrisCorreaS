@@ -73,6 +73,42 @@
 </div>
 </details>
 <details>
+<summary><strong>Programming Notes</strong></summary>
+<div align="center">
+  <br />
+  <p align="center">
+    <a href="https://github.com/CrisCorreaS/apuntes-java">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=criscorreas&repo=apuntes-java"
+        alt="Readme Card Apuntes Java"
+      />
+    </a>
+    <a href="https://github.com/CrisCorreaS/apuntes-javascript">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=criscorreas&repo=apuntes-javascript&theme=shadow-red"
+        alt="Readme Card Apuntes JavaScript"
+      />
+    </a>
+    <a href="https://github.com/CrisCorreaS/apuntes-html-css-xml">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=criscorreas&repo=apuntes-html-css-xml"
+        alt="Readme Card Apuntes HTML, CSS y XML"
+      />
+    </a>
+    <a href="https://github.com/CrisCorreaS/trucos-vscode">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=criscorreas&repo=trucos-vscode&theme=shadow-red"
+        alt="Readme Card Trucos VSCode"
+      />
+    </a>
+  </p>
+</div>
+</details>
+<details>
 <summary><strong>A Few JavaScript Projects</strong></summary>
 <div align="center">
   <br />
