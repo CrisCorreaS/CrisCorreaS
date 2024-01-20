@@ -113,6 +113,13 @@
 <div align="center">
   <br />
   <p align="center">
+    <a href="https://github.com/CrisCorreaS/password-generator">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=criscorreas&repo=password-generator"
+        alt="Readme Card Password Generator"
+      />
+    </a>
     <a href="https://github.com/CrisCorreaS/three-themed-calculator">
       <img
         align="center"
