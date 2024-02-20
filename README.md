@@ -140,3 +140,25 @@
   </p>
 </div>
 </details>
+<details>
+<summary><strong>A Few React Projects</strong></summary>
+<div align="center">
+  <br />
+  <p align="center">
+    <a href="https://github.com/CrisCorreaS/tic-tac-toe">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=criscorreas&repo=tic-tac-toe"
+        alt="Readme Card Tic Tac Toe Game"
+      />
+    </a>
+    <a href="https://github.com/CrisCorreaS/TomaTe-homepage">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=criscorreas&repo=TomaTe-homepage"
+        alt="Readme Card TomaTe homepage"
+      />
+    </a>
+  </p>
+</div>
+</details>
