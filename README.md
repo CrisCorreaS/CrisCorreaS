@@ -58,7 +58,7 @@
 </ul>
 </details>
 <details>
-<summary><strong>Some Statistics</strong></summary>
+<summary><strong>Some Stats</strong></summary>
 <div align="center">
   <br />
   <img
