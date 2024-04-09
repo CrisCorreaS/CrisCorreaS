@@ -98,6 +98,13 @@
         alt="Readme Card Apuntes JavaScript"
       />
     </a>
+    <a href="https://github.com/CrisCorreaS/apuntes-sql">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=criscorreas&repo=apuntes-sql"
+        alt="Readme Card Apuntes SQL"
+      />
+    </a>
     <a href="https://github.com/CrisCorreaS/apuntes-html-css-xml">
       <img
         align="center"
