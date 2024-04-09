@@ -21,9 +21,8 @@
       <img alt="spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
       <img alt="springboot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
       <img alt="hibernate" src="https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-      <img alt="junit" src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=white" />
-      <img alt="selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white" />
       <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
       <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
       <img alt="mariadb" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
     </p>
@@ -37,6 +36,14 @@
       <img alt="react" src="https://img.shields.io/badge/React-097FA5?style=flat-square&logo=react&logoColor=white" />
       <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
       <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </p>
+  </li>
+  <li>
+    <p>
+      <p><strong>Testing</strong></p>
+      <img alt="junit" src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=white" />
+      <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+      <img alt="selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white" />
     </p>
   </li>
   <li>
