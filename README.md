@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Cris 👋👩‍💻</h1>
-<h3 align="center">A software engineer from Spain</h3>
+<h3 align="center">A software engineer from Spain based in the UK</h3>
 
 <br />
 
