@@ -168,11 +168,11 @@
 <div align="center">
   <br />
   <p align="center">
-    <a href="https://github.com/CrisCorreaS/Inteligencia-Artificial-en-la-Deteccion-del-Cancer-Speaker-Session">
+    <a href="https://github.com/CrisCorreaS/Artificial-Intelligence-in-Cancer-Detection-Speaker-Session">
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=criscorreas&repo=Inteligencia-Artificial-en-la-Deteccion-del-Cancer-Speaker-Session"
-        alt="Readme Card Inteligencia Artificial en la Deteccion del Cancer Speaker Session"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=criscorreas&repo=Artificial-Intelligence-in-Cancer-Detection-Speaker-Session"
+        alt="Readme Card Artificial Intelligence in Cancer Detection Speaker Session"
       />
     </a>
     <a href="https://github.com/CrisCorreaS/AD-prediction-classification-models">
