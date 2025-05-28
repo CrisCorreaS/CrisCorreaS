@@ -58,6 +58,7 @@
       <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" />
       <img alt="mariadb" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
       <img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=white" />
+      <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase&logoColor=white&color=3ECF8E" />
       <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
       <img alt="hibernate" src="https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
     </p>
